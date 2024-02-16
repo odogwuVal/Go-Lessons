@@ -14,5 +14,5 @@ func main() {
 	}
 
 	log.SetOutput(file)
-	log.Println("Hello World")
+	log.Println("Hello World!")
 }
